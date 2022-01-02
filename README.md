@@ -2,11 +2,11 @@
 
 👋 Hey, I'm Carl—I'm a software engineer.
 
-💪 *I'm currently taking a professional sabbatical, but I'll be ready to make some cool stuff with you and your team in the latter half of 2022. Until then, feel free to reach me through one of the means listed below.*
+💪 *I'm currently taking a professional sabbatical, but I'll be ready to make some cool stuff with you and your team in the latter half of 2022. Until then, feel free to reach me through one of my contact preferences listed below.*
 
 🙏🙏🙏
 
-📈 I spent the last few years as tech lead at a fintech company whose mission was to build a financial system that works for everyone. While there I built their internal tools ecosystem and launched the product in India and Mexico. 🏗️ Before that, I helped lay the groundwork for a few startups working mainly with JavaScript/React.js, Node.js, and Python. 🦖 In a different time, I worked at a boutique management consulting firm and functioned as their in-house developer.
+📈 I spent the last few years as tech lead at a fintech company whose mission was to build a financial system that works for everyone. There I built their internal tools ecosystem and launched the product in India and Mexico. 🏗️ Before that, I helped lay the groundwork for a few startups working mainly with JavaScript/React.js, Node.js, and Python. 🦖 In a different time, I worked at a boutique management consulting firm and functioned as their in-house developer.
 
 I'm currently having fun playing around with [Deno](https://deno.land/) and wrapping up my MS in Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/). I love a good cup of coffee (no seriously, I have a legit setup), but have been shifting to tea as one of my new year's resolutions. I also enjoy building mechanical keyboards (I typed this on my RAMA KOYU) and traveling to new places.
 
