@@ -12,6 +12,6 @@ I'm currently having fun playing around with [Deno](https://deno.land/) and wrap
 
 ### 📫 Get in touch
 
-* Email: c9rl@hey.com
+* Email: c9rl.bernardo@gmail.com
 * LinkedIn: https://www.linkedin.com/in/carlbernardo
 * Personal Site: [c9rl.xyz](https://www.c9rl.xyz/)
