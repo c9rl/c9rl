@@ -12,6 +12,6 @@ I hold a MS in Computer Science from [Georgia Institute of Technology](https://w
 
 ### 📫 Get in touch
 
-* Email: c9rl.bernardo@gmail.com
+* Email: heyc9rl@protonmail.com
 * LinkedIn: https://www.linkedin.com/in/carlbernardo
 * Personal Site: [c9rl.xyz](https://www.c9rl.xyz/)
